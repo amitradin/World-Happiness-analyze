@@ -1,0 +1,1 @@
+In this project I analyzed the happiness level of each country. I checked which countries are the happiest, what is the trend of the happiness and checked what factores correlate to the happiness of a Country the highest
